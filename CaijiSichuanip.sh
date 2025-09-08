@@ -122,8 +122,18 @@ ip47=$(awk 'NR==47{print $2}' $result_ip)
 ip48=$(awk 'NR==48{print $2}' $result_ip)
 ip49=$(awk 'NR==49{print $2}' $result_ip)
 ip50=$(awk 'NR==50{print $2}' $result_ip)
-rm -f speedtest_${city}_$time.log $result_ip    
-# 用 50 个最快 ip 生成对应城市的 txt 文件
+ip51=$(awk 'NR==51{print $2}' $result_ip)
+ip52=$(awk 'NR==52{print $2}' $result_ip)
+ip53=$(awk 'NR==53{print $2}' $result_ip)
+ip54=$(awk 'NR==54{print $2}' $result_ip)
+ip55=$(awk 'NR==55{print $2}' $result_ip)
+ip56=$(awk 'NR==56{print $2}' $result_ip)
+ip57=$(awk 'NR==57{print $2}' $result_ip)
+ip58=$(awk 'NR==58{print $2}' $result_ip)
+ip59=$(awk 'NR==59{print $2}' $result_ip)
+ip60=$(awk 'NR==60{print $2}' $result_ip)
+rm -f speedtest_${city}_$time.log $result_ip
+# 用 60 个最快 ip 生成对应城市的 txt 文件
 program=template/template_${city}.txt
 sed "s/ipipip/$ip1/g" $program > tmp_1.txt
 sed "s/ipipip/$ip2/g" $program > tmp_2.txt
@@ -175,6 +185,16 @@ sed "s/ipipip/$ip47/g" $program > tmp_47.txt
 sed "s/ipipip/$ip48/g" $program > tmp_48.txt
 sed "s/ipipip/$ip49/g" $program > tmp_49.txt
 sed "s/ipipip/$ip50/g" $program > tmp_50.txt
+sed "s/ipipip/$ip51/g" $program > tmp_51.txt
+sed "s/ipipip/$ip52/g" $program > tmp_52.txt
+sed "s/ipipip/$ip53/g" $program > tmp_53.txt
+sed "s/ipipip/$ip54/g" $program > tmp_54.txt
+sed "s/ipipip/$ip55/g" $program > tmp_55.txt
+sed "s/ipipip/$ip56/g" $program > tmp_56.txt
+sed "s/ipipip/$ip57/g" $program > tmp_57.txt
+sed "s/ipipip/$ip58/g" $program > tmp_58.txt
+sed "s/ipipip/$ip59/g" $program > tmp_59.txt
+sed "s/ipipip/$ip60/g" $program > tmp_60.txt
 cat tmp_1.txt >> tmp_all.txt
 cat tmp_2.txt >> tmp_all.txt
 cat tmp_3.txt >> tmp_all.txt
@@ -225,7 +245,17 @@ cat tmp_47.txt >> tmp_all.txt
 cat tmp_48.txt >> tmp_all.txt
 cat tmp_49.txt >> tmp_all.txt
 cat tmp_50.txt >> tmp_all.txt
+cat tmp_51.txt >> tmp_all.txt
+cat tmp_52.txt >> tmp_all.txt
+cat tmp_53.txt >> tmp_all.txt
+cat tmp_54.txt >> tmp_all.txt
+cat tmp_55.txt >> tmp_all.txt
+cat tmp_56.txt >> tmp_all.txt
+cat tmp_57.txt >> tmp_all.txt
+cat tmp_58.txt >> tmp_all.txt
+cat tmp_59.txt >> tmp_all.txt
+cat tmp_60.txt >> tmp_all.txt
 grep -vE '/{3}' tmp_all.txt > "txt/${city}.txt"
-rm -f tmp_1.txt tmp_2.txt tmp_3.txt tmp_4.txt tmp_5.txt tmp_6.txt tmp_7.txt tmp_8.txt tmp_9.txt tmp_10.txt tmp_11.txt tmp_12.txt tmp_13.txt tmp_14.txt tmp_15.txt tmp_16.txt tmp_17.txt tmp_18.txt tmp_19.txt tmp_20.txt tmp_21.txt tmp_22.txt tmp_23.txt tmp_24.txt tmp_25.txt tmp_26.txt tmp_27.txt tmp_28.txt tmp_29.txt tmp_30.txt tmp_31.txt tmp_32.txt tmp_33.txt tmp_34.txt tmp_35.txt tmp_36.txt tmp_37.txt tmp_38.txt tmp_39.txt tmp_40.txt tmp_41.txt tmp_42.txt tmp_43.txt tmp_44.txt tmp_45.txt tmp_46.txt tmp_47.txt tmp_48.txt tmp_49.txt tmp_50.txt tmp_all.txt
+rm -f tmp_1.txt tmp_2.txt tmp_3.txt tmp_4.txt tmp_5.txt tmp_6.txt tmp_7.txt tmp_8.txt tmp_9.txt tmp_10.txt tmp_11.txt tmp_12.txt tmp_13.txt tmp_14.txt tmp_15.txt tmp_16.txt tmp_17.txt tmp_18.txt tmp_19.txt tmp_20.txt tmp_21.txt tmp_22.txt tmp_23.txt tmp_24.txt tmp_25.txt tmp_26.txt tmp_27.txt tmp_28.txt tmp_29.txt tmp_30.txt tmp_31.txt tmp_32.txt tmp_33.txt tmp_34.txt tmp_35.txt tmp_36.txt tmp_37.txt tmp_38.txt tmp_39.txt tmp_40.txt tmp_41.txt tmp_42.txt tmp_43.txt tmp_44.txt tmp_45.txt tmp_46.txt tmp_47.txt tmp_48.txt tmp_49.txt tmp_50.txt tmp_51.txt tmp_52.txt tmp_53.txt tmp_54.txt tmp_55.txt tmp_56.txt tmp_57.txt tmp_58.txt tmp_59.txt tmp_60.txt tmp_all.txt
 echo "${city} 测试完成，生成可用文件：'txt/${city}.txt'"
 #--------合并所有城市的txt文件---------
