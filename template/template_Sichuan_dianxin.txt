@@ -230,3 +230,15 @@ http://ipipip/rtp/239.93.0.118:2191
 http://ipipip/rtp/239.93.1.111:5140
 #EXTINF:-1 tvg-id="1" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/中国教育4台.png" group-title="卫视高清",中国教育4台
 http://ipipip/rtp/239.93.1.93:5140
+#EXTINF:-1 tvg-id="1" tvg-name="江苏卫视4K" tvg-logo="https://live.fanmingming.com/tv/江苏卫视4K.png" group-title="卫视高清",江苏卫视4K
+http://ipipip/rtp/239.94.0.117:5140
+#EXTINF:-1 tvg-id="1" tvg-name="湖南卫视4K" tvg-logo="https://live.fanmingming.com/tv/湖南卫视4K.png" group-title="卫视高清",湖南卫视4K
+http://ipipip/rtp/239.94.0.116:5140
+#EXTINF:-1 tvg-id="1" tvg-name="东方卫视4K" tvg-logo="https://live.fanmingming.com/tv/东方卫视4K.png" group-title="卫视高清",东方卫视4K
+http://ipipip/rtp/239.94.0.119:5140
+#EXTINF:-1 tvg-id="1" tvg-name="四川卫视4K" tvg-logo="https://live.fanmingming.com/tv/四川卫视4K.png" group-title="卫视高清",四川卫视4K
+http://ipipip/rtp/239.94.0.115:5140
+#EXTINF:-1 tvg-id="1" tvg-name="浙江卫视4K" tvg-logo="https://live.fanmingming.com/tv/浙江卫视4K.png" group-title="卫视高清",浙江卫视4K
+http://ipipip/rtp/239.94.0.118:5140
+#EXTINF:-1 tvg-id="1" tvg-name="山东卫视4K" tvg-logo="https://live.fanmingming.com/tv/山东卫视4K.png" group-title="卫视高清",山东卫视4K
+http://ipipip/rtp/239.94.0.120:5140
