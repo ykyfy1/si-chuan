@@ -146,6 +146,46 @@ http://ipipip/rtp/239.94.0.157:5140
 http://ipipip/rtp/239.94.0.158:5140
 #EXTINF:-1 tvg-name="CDTV6" tvg-logo="https://live.fanmingming.com/tv/CDTV6.png" group-title="卫视高清",CDTV6
 http://ipipip/rtp/239.94.0.159:5140
+#EXTINF:-1 tvg-id="宜宾新闻综合" tvg-name="宜宾新闻综合" tvg-logo="https://live.fanmingming.com/tv/宜宾新闻综合.png" group-title="卫视高清",宜宾新闻综合
+http://ipipip/rtp/239.94.0.161:5140
+#EXTINF:-1 tvg-id="宜宾公共频道" tvg-name="宜宾公共频道" tvg-logo="https://live.fanmingming.com/tv/宜宾公共频道.png" group-title="卫视高清",宜宾公共频道
+http://ipipip/rtp/239.94.0.172:5140
+#EXTINF:-1 tvg-id="雅安新闻综合" tvg-name="雅安新闻综合" tvg-logo="https://live.fanmingming.com/tv/雅安新闻综合.png" group-title="卫视高清",雅安新闻综合
+http://ipipip/rtp/239.94.0.166:5140
+#EXTINF:-1 tvg-id="雅安文化生活" tvg-name="雅安文化生活" tvg-logo="https://live.fanmingming.com/tv/雅安文化生活.png" group-title="卫视高清",雅安文化生活
+http://ipipip/rtp/239.94.0.180:5140
+#EXTINF:-1 tvg-id="乐山新闻综合" tvg-name="乐山新闻综合" tvg-logo="https://live.fanmingming.com/tv/乐山新闻综合.png" group-title="卫视高清",乐山新闻综合
+http://ipipip/rtp/239.94.0.162:5140
+#EXTINF:-1 tvg-id="乐山文旅生活" tvg-name="乐山文旅生活" tvg-logo="https://live.fanmingming.com/tv/乐山文旅生活.png" group-title="卫视高清",乐山文旅生活
+http://ipipip/rtp/239.94.0.173:5140
+#EXTINF:-1 tvg-id="内江综合" tvg-name="内江综合" tvg-logo="https://live.fanmingming.com/tv/内江综合.png" group-title="卫视高清",内江综合
+http://ipipip/rtp/239.94.0.164:5140
+#EXTINF:-1 tvg-id="内江科教生活" tvg-name="内江科教生活" tvg-logo="https://live.fanmingming.com/tv/内江科教生活.png" group-title="卫视高清",内江科教生活
+http://ipipip/rtp/239.94.0.181:5140
+#EXTINF:-1 tvg-id="德阳文旅科教" tvg-name="德阳文旅科教" tvg-logo="https://live.fanmingming.com/tv/德阳文旅科教.png" group-title="卫视高清",德阳文旅科教
+http://ipipip/rtp/239.94.0.165:5140
+#EXTINF:-1 tvg-id="德阳综合" tvg-name="德阳综合" tvg-logo="https://live.fanmingming.com/tv/德阳综合.png" group-title="卫视高清",德阳综合
+http://ipipip/rtp/239.94.0.176:5140
+#EXTINF:-1 tvg-id="广元新闻综合" tvg-name="广元新闻综合" tvg-logo="https://live.fanmingming.com/tv/广元新闻综合.png" group-title="卫视高清",广元新闻综合
+http://ipipip/rtp/239.94.0.167:5140
+#EXTINF:-1 tvg-id="广元文化生活" tvg-name="广元文化生活" tvg-logo="https://live.fanmingming.com/tv/广元文化生活.png" group-title="卫视高清",广元文化生活
+http://ipipip/rtp/239.94.0.179:5140
+#EXTINF:-1 tvg-id="攀枝花新闻综合" tvg-name="攀枝花新闻综合" tvg-logo="https://live.fanmingming.com/tv/攀枝花新闻综合.png" group-title="卫视高清",攀枝花新闻综合
+http://ipipip/rtp/239.94.0.168:5140
+#EXTINF:-1 tvg-id="自贡综合" tvg-name="自贡综合" tvg-logo="https://live.fanmingming.com/tv/自贡综合.png" group-title="卫视高清",自贡综合
+http://ipipip/rtp/239.94.0.169:5140
+#EXTINF:-1 tvg-id="自贡文化生活" tvg-name="自贡文化生活" tvg-logo="https://live.fanmingming.com/tv/自贡文化生活.png" group-title="卫视高清",自贡文化生活
+http://ipipip/rtp/239.94.0.178:5140
+#EXTINF:-1 tvg-id="眉山综合" tvg-name="眉山综合" tvg-logo="https://live.fanmingming.com/tv/眉山综合.png" group-title="卫视高清",眉山综合
+http://ipipip/rtp/239.94.0.170:5140
+#EXTINF:-1 tvg-id="眉山文旅乡村" tvg-name="眉山文旅乡村" tvg-logo="https://live.fanmingming.com/tv/眉山文旅乡村.png" group-title="卫视高清",眉山文旅乡村
+http://ipipip/rtp/239.94.0.174:5140
+#EXTINF:-1 tvg-id="凉山新闻综合" tvg-name="凉山新闻综合" tvg-logo="https://live.fanmingming.com/tv/凉山新闻综合.png" group-title="卫视高清",凉山新闻综合
+http://ipipip/rtp/239.94.0.171:5140
+#EXTINF:-1 tvg-id="凉山彝语综合" tvg-name="凉山彝语综合" tvg-logo="https://live.fanmingming.com/tv/凉山彝语综合.png" group-title="卫视高清",凉山彝语综合
+http://ipipip/rtp/239.94.0.175:5140
+#EXTINF:-1 tvg-id="资阳新闻综合" tvg-name="资阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/资阳新闻综合.png" group-title="卫视高清",资阳新闻综合
+http://ipipip/rtp/239.94.0.183:5140
 #EXTINF:-1 tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv华语影院.png" group-title="本地高清",bestv华语影院
 http://ipipip/rtp/239.93.0.138:5140
 #EXTINF:-1 tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv星光院线.png" group-title="本地高清",bestv星光院线
@@ -225,9 +265,9 @@ http://ipipip/rtp/239.94.1.176:5140
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="卫视高清",中国交通
 http://ipipip/rtp/239.94.0.87:5140
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="卫视高清",凤凰中文
-http://ipipip/rtp/239.93.0.162:2192
+http://ipipip/rtp/239.94.2.51:5140
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="卫视高清",凤凰资讯
-http://ipipip/rtp/239.93.0.118:2191
+http://ipipip/rtp/239.94.2.49:5140
 #EXTINF:-1 tvg-id="1" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/中国教育1台.png" group-title="卫视高清",中国教育1台
 http://ipipip/rtp/239.94.1.2:5140
 #EXTINF:-1 tvg-id="1" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/中国教育4台.png" group-title="卫视高清",中国教育4台
