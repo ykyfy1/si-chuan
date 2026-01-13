@@ -244,6 +244,8 @@ http://ipipip/rtp/239.94.1.144:5140
 http://ipipip/rtp/239.94.1.145:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影院高清",少儿天地
 http://ipipip/rtp/239.93.42.34:5140
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png" group-title="影院高清",环球旅游
+http://ipipip/rtp/239.94.1.147:5140
 #EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="影院高清",求索纪录
 http://ipipip/rtp/239.94.1.142:5140
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png" group-title="影院高清",精彩影视
