@@ -108,6 +108,8 @@ http://ipipip/rtp/239.94.0.97:5140
 http://ipipip/rtp/239.94.0.98:5140
 #EXTINF:-1 tvg-id="1" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视高清",兵团卫视
 http://ipipip/rtp/239.94.0.102:5140
+#EXTINF:-1 tvg-id="1" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视高清",内蒙古卫视
+http://ipipip/rtp/239.94.0.94:5140
 #EXTINF:-1 tvg-id="1" tvg-name="麻辣体育" tvg-logo="https://live.fanmingming.com/tv/麻辣体育.png" group-title="卫视高清",麻辣体育
 http://ipipip/rtp/239.94.1.149:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",绚影4K
