@@ -274,7 +274,7 @@ http://ipipip/rtp/239.94.1.175:5140
 http://ipipip/rtp/239.93.42.97:5140
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="卫视高清",都市剧场
 http://ipipip/rtp/239.94.1.133:5140
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="央视高清",欢笑剧场
+#EXTINF:-1 tvg-id="多彩文体" tvg-name="多彩文体" tvg-logo="https://live.fanmingming.com/tv/多彩文体.png" group-title="央视高清",多彩文体
 http://ipipip/rtp/239.94.1.176:5140
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="卫视高清",中国交通
 http://ipipip/rtp/239.94.0.87:5140
