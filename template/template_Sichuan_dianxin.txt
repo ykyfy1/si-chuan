@@ -250,6 +250,10 @@ http://ipipip/rtp/239.94.1.144:5140
 http://ipipip/rtp/239.94.1.143:5140
 #EXTINF:-1 tvg-name="iHOT爱旅行" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/iHOT爱旅行.png" group-title="电影",iHOT爱旅行
 http://ipipip/rtp/239.94.1.137:5140
+#EXTINF:-1 tvg-id="1" tvg-name="经典电影" tvg-logo="https://www.yangfeiyue.cn/tv/经典电影.png" group-title="华数高清",经典电影
+http://ipipip/rtp/239.94.1.21:5140
+#EXTINF:-1 tvg-id="1" tvg-name="热播剧场" tvg-logo="https://www.yangfeiyue.cn/tv/热播剧场.png" group-title="华数高清",热播剧场
+http://ipipip/rtp/239.94.1.25:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影院高清",爱宠宠物
 http://ipipip/rtp/239.94.1.145:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影院高清",少儿天地
